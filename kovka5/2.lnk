@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+
+	<meta charset="utf-8">
+	<base href="/">
+
+	<title>OptimizedHTML 4</title>
+	<meta name="description" content="">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Template Basic Images Start -->
+	<meta property="og:image" content="path/to/image.jpg">
+	<link rel="icon" href="img/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png">
+	<!-- Template Basic Images End -->
+
+	<!-- Custom Browsers Color Start -->
+	<meta name="theme-color" content="#000">
+	<!-- Custom Browsers Color End -->
+
+	<link rel="stylesheet" href="css/main.min.css">
+
+</head>
+
+<body class="my-wrapper">
+
+<div class="preloader"><div class="puls"></div></div>
+	<!-- Custom HTML -->
+
+
+<div id="my-header" class="main_head"  data-parallax data-src="../img/bg1.png">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-2 col-sm-6 ">
+				<a href="#" class="logo">
+					<img src="../img/logo.svg" alt="ковка-сервис">
+				</a>
+			</div>
+				<div class="col-md-8 col-lg-6-6 offset-md-2 col-sm-6">
+					<div class="h_butt">
+						<a href="#my-menu" id="my-icon" class="hamburger hamburger--emphatic" aria-label="Menu" aria-controls="navigation">
+							  <div class="hamburger-box">
+	  				  		<div class="hamburger-inner"></div>
+						 	 </div>
+						</a>
+					</div>
+					<nav id="my-menu">
+						<ul>
+							<li><a  href="#my-header"><span>Главная</span></a></li>
+							<li><a  href="#my-content"><span>Товары</span></a></li>
+							<li><a  href="#"><span>АММА-ДИЗАЙН</span></a></li>
+							<li><a  href="#review"><span>О компании</span></a></li>
+							<li><a  href="#my-feed_back"><span>Обратная связь</span></a></li>
+						</ul>
+					</nav>
+					<div class="nav_menu">
+						<ul>
+							<li class="active"><a data-scroll class="scroll_s"  href="#my-header"><span>Главная</span></a></li>
+							<li><a data-scroll class="scroll_s"  href="#my-content"><span>Товары</span></a></li>
+							<li><a data-scroll class="scroll_s"  href="#"><span>АММА-ДИЗАЙН</span></a></li>
+							<li><a data-scroll class="scroll_s"  href="#review"><span>О компании</span></a></li>
+							<li><a data-scroll class="scroll_s"  href="#my-feed_back"><span>Обратная связь</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+
+			</div>
+
+			<div class="row">
+				<div class="col-md-4">
+
+					<div class="description ">
+						<h1>Лучшее качество выше всего</h1>
+						<p>МЫ РАБОТАЕМ КАК ПО ИНДИВИДУАЛЬНЫМ ЭСКИЗАМ ЗАКАЗЧИКА, ТАК И ПО ТИПОВЫМ ПРОЕКТАМ.
+								НАША КОМПАНИЯ ЗАНИМАЕТСЯ ХУДОЖЕСТВЕННОЙ КОВКОЙ МЕТАЛЛА НА РЫНКЕ Г. МОСКВЫ И М.О. С НОЯБРЯ 2000 ГОДА, НАКОПИВШАЯ ЗА ЭТО ВРЕМЯ ПРИЛИЧНЫЙ ОПЫТ РАБОТЫ В ЭТОЙ СФЕРЕ.</p>
+						<a href="" class="button_X">Подробнее</a>
+					</div>
+
+				</div>
+				<div class="col-md-8">
+					<div class="slider_content">
+						<div class="slider_window">
+							<div class="slides owl-carousel">
+									<img src="../img/bg1.png" alt="">
+									<img src="../img/bg2.jpg" alt="">
+									<img src="../img/bg4.jpg" alt="">
+									<img src="../img/bg2.jpg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- <div class="ds text-center"><div class="arrow-down_fa"><a href="#content_s"><i class="fa fa-angle-double-down"></i></a></div></div> -->
+
+		</div>
+		<div class="header_contacts text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4"><i class="fa fa-map-marker "> <span> Central Park West at 79th St.</span></i></div>
+					<div class="col-md-4"><i class="fa fa-phone"> <span class="ph_h"> 1-(234)-567-89-01</span></i></div>
+					<div class="col-md-4"><i class="fa fa-clock-o"> <span> 10:00 - 19:00 (пн-сб)</span></i></div>
+				</div>
+			</div>
+		</div>
+
+</div>
+
+<div id="my-content" class="main_content">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-3 col-sm-12 col-xs-12">
+				<div class="sidebar_s">
+					<ul>
+						<li class="bg_overlay side_item" style="background-image: url(../img/s1.jpg);"><a href="#content_s"><p>Ворота калитки заборы</p></a></li>
+						<li class="bg_overlay side_item" style="background-image: url(../img/s3.jpg);"><a href="#content_s"><p>Козырьки навесы</p></a></li>
+						<li class="bg_overlay side_item" style="background-image: url(../img/s2.jpg);"><a href="#content_s"><p>Лестницы перила ограждения</p></a></li>
+						<li class="bg_overlay side_item" style="background-image: url(../img/s5.jpg);"><a href="#content_s"><p>Люстры БРА</p></a></li>
+						<li class="bg_overlay side_item" style="background-image: url(../img/s2.jpg);"><a href="#content_s"><p>Оконные решетки</p></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-9">
+				<div class="sales_amma bg_overlay" style="background-image: url(../img/os1.png);">
+				<h2>ПРЕДСТАВЛЯЕМ К ВАШЕМУ ВНИМАНИЮ АММА-ДИЗАЙН</h2>
+				<p>Floor   |   Jacks   |   Supports </p>
+				<a href="#" class="button_X">ПРОСМОТРЕТЬ</a>
+			</div>
+			<div class="sales_s">
+				<div class="navigation_s">
+					<ul>
+						<li><a href="#">Новые товары</a></li>
+						<li><a href="#">Популярное</a></li>
+						<li><a href="#">Спец товар</a></li>
+						<li><a href="#">Лидеры продаж</a></li>
+					</ul>
+				</div>
+				<div class="row pjax-container">
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s1.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s1.jpg" alt="">
+							<h3>Кованые ворота</h3>
+							<p>Ограждение вокруг Вашего дома замечательно дополнят кованые ворота и калитки.</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s2.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s2.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s3.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s3.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s4.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s4.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/1.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s5.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s1.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s6.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s1.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s7.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+					<div class="col-md-4 col-lg-4 col-sm-6">
+						<div class="sale_item">
+							<a class="popup-link" data-effect="zoomIn"  href="../img/s1.jpg"><i class="fa fa-arrows-alt"></i></a>
+							<img src="../img/s1.jpg" alt="">
+							<h3>lorem ipsum</h3>
+							<p>In past times there was a rule that every real man should build a house. Of course, now it is considered as an outdated stereotype and modern real m..</p>
+							<i class="fa fa-eye"><span>65 389</span></i>
+						</div>
+					</div>
+				</div>
+				<div class="next_page">
+					<ul>
+						<li><a href="2.html">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">...</a></li>
+						<li><a href="#">32</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div id="review" class="review_company bg_overlay" style="background-image: url(../img/bg2.jpg);">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-12">
+				<h1>КОМПАНИЯ «КОВКА-СЕРВИС»</h1>
+				<p>НАША КОМПАНИЯ ЗАНИМАЕТСЯ ХУДОЖЕСТВЕННОЙ КОВКОЙ МЕТАЛЛА НА РЫНКЕ Г. МОСКВЫ И М.О. С НОЯБРЯ 2000 ГОДА, НАКОПИВШАЯ ЗА ЭТО ВРЕМЯ ПРИЛИЧНЫЙ ОПЫТ РАБОТЫ В ЭТОЙ СФЕРЕ.
+					БЛАГОДАРЯ ЭТОМУ ОПЫТУ И ПОСТОЯННОМУ РАЗВИТИЮ, НА СЕГОДНЯШНИЙ ДЕНЬ МЫ МОЖЕМ ПРЕДЛОЖИТЬ СВОИМ КЛИЕНТАМ БОГАТЫЙ АССОРТИМЕНТ И ВЫСОКОЕ КАЧЕСТВО ВЫПУСКАЕМОЙ ПРОДУКЦИИ.
+							НАША КОМПАНИЯ ОКАЗЫВАЕТ ВЕСЬ СПЕКТОР УСЛУГ. ОСНОВНЫМ НАПРАВЛЕНИЕМ КОМПАНИИ «КОВКА-СЕРВИС» ЯВЛЯЕТСЯ ХУДОЖЕСТВЕННАЯ КОВКА И ДЕКОРАТИВНОЕ ОФОРМЛЕНИЕ ФАСАДОВ, ЖИЛЫХ ДОМОВ И ПРИУСАДЕБНЫХ ЛАНДШАФТОВ.</p>
+			</div>
+			<div class="col-lg-6 col-md-12">
+				<div class="bg_rev fotorama" data-nav="thumbs" data-width="100%"  data-thumbwidth="120" data-thumbheight="76" data-thumbmargin="15" data-thumbborderwidth="5">
+				<img src="../img/1.jpg" alt="">
+				<img src="../img/2.png" alt="">
+				<img src="../img/3.png" alt="">
+				<img src="../img/4.jpg" alt="">
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="my-feed_back" class="feedback_S" style="background-image: url(../img/bg1.png);">
+	<div class="container-max-widths">
+		<div class="row">
+			<div class="col-md-4 offset-md-2 col-sm-8 offset-sm-2 ">
+				<div class="feed_contacts">
+					<h1>Наши контакты</h1>
+					<i class="fa fa-mobile"><p>+7-(925)-740-58-19 - Менеджер(Михаил)</p></i>
+					<i class="fa fa-envelope"><p>KOVKA-SERVIS@MAIL.RU</p></i>
+					<i class="fa fa-location-arrow"><p>Московская обл. Ленинский район, Деревня Саларьево дом 50/2</p></i>
+					<i class="fa fa-user"><p>Примечание: <span>бесплатный выезд специалиста к заказчику производится только в случае заказа </span></p></i>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-6 sol-sm-12 col-xs-12">
+				<div class="feed_area">
+				<form class="callback_form" id="form">
+					<div class="sucsses"><span>Спасибо за заявку!</span></div>
+						<span>КОВКА-СЕРВИС</span>
+						<div class="h1_s">
+							<h1>ОСТАВИТЬ ЗАЯВКУ</h1>
+						</div>
+						<span>ОСТАВЬТЕ ЗАЯВКУ И МЫ ПЕРЕЗВОНИМ ВАМ ЧЕРЕЗ 15 МИНУТ</span>
+						<input type="hidden" name="project_name" value="Site Name">
+						<input type="hidden" name="admin_email" value="ar.esayan@mail.ru">
+						<input type="hidden" name="form_subject" value="Form Subject">
+						<input type="text"  name="name" placeholder="Ваше имя..." required>
+						<input type="tel" maxlength="11"  name="tel" placeholder="Ваш номер телефона..." required>
+						<textarea name="name" rows="4" cols="40" placeholder="Примечания..."></textarea>
+						<button class="button_X">ОТПРАВИТЬ</button>
+					</form>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<footer id="my-footer" class="footer_s">
+	<div class="container">
+		<div class="row">
+			<div class=" col-md-4 col-sm-4 text-center foot_logo">
+				<a href="#" class="logo"><img src="../img/logo.svg" alt="ковка-сервис"></a>
+				<p><span>Мы</span> рады предложить вам полный спектр кованных работ.</p>
+			</div>
+			<div class="col-md-8 col-sm-8">
+				<div class="foot_menu">
+					<ul>
+						<li><a data-scroll class="scroll_s" href="#my-header"><span>Главная</span></a></li>
+						<li><a data-scroll class="scroll_s" href="#"><span>Товары</span></a></li>
+						<li><a data-scroll class="scroll_s" href="#"><span>АММА-ДИЗАЙН</span></a></li>
+						<li><a data-scroll class="scroll_s" href="#"><span>О компании</span></a></li>
+						<li><a data-scroll class="scroll_s" href="#"><span>Обратная связь</span></a></li>
+					</ul>
+				</div>
+				<div class="foot_contacts">
+					<i class="fa fa-mobile"><p>+7-(925)-740-58-19 <br> Менеджер(Михаил)</p></i>
+					<i class="fa fa-envelope"><p>KOVKA-SERVIS@MAIL.RU</p></i>
+					<i class="fa fa-location-arrow"><p>Московская обл. 	<br> Ленинский район,<br> Деревня Саларьево <br> дом 50/2</p></i>
+					<i class="fa fa-user"><p>Примечание: <span> <br>бесплатный выезд <br> специалиста к <br> заказчику производится <br> только <br> в случае заказа </span></p></i>
+				</div>
+			</div>
+			<div class="col-md-4"></div>
+		</div>
+	</div>
+</footer>
+
+
+	<script src="js/scripts.min.js"></script>
+
+</body>
+</html>
